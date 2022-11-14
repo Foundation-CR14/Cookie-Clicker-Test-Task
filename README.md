@@ -1,55 +1,15 @@
-# Cookie Clicker Task
+# Cookie Clicker
 
-Your task is to:
+This project was created with [Create React App](https://github.com/facebook/create-react-app).
 
-1. Fork this repository
+## Running the app
 
-2. Amend the tests (and application code) in a way that every rerun of the tests
-will reproduce same results without restarting the application.
+In the project directory, you can run:
 
-## Tests setup
+1. `npm install` to install packages;
+2. `npm start` to start the app.
 
-1. Install latest Node (at least Node v16)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-2. Install packages with `yarn install`
-
-## Running tests
-
-On Linux
-
-`PAGE_URL="YOUR_APPLICATION_URL_GOES_HERE" yarn test`
-
-On Windows cmd (Command Prompt)
-
-```cmd
-setx PAGE_URL "YOUR_APPLICATION_URL_GOES_HERE"
-yarn test
-```
-
-## Submission
-
-Send a link to your public repository via e-mail.
-
-## Evaluation
-
-Your submission will be evaluated in the following categories:
-
-- Adherence to the specs laid out in tests
-
-- Quality of the code: [Clean code rules](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
-
-- Git practices and commit message quality: [How to write a good commit message](https://www.gitkraken.com/learn/git/best-practices/git-commit-message)
-
-## Other notes
-
-You are free to use whatever language/framework/technologies you want.
-
-Along with code submit instructions how to start the application.
-
-No backend is necessary, it is fine to hold the count as long as the application is
-running.
-
-Any extra functionality in the solution, which is not laid out in the spec should also
-be tested
-
-Example solution for this test task can be found at: [Cookie Clicker test task example](https://github.com/Foundation-CR14/Cookie-Clicker-test-task-example)
+The page will reload when you make changes.
