@@ -2,10 +2,9 @@
 
 Your task is to:
 
-1. write a small Cookie Clicker web application, which follows the specs outlaid in
-tests of this repository.
+1. Fork this repository
 
-2. Amend the tests (and your application code) in a way that every rerun of the tests
+2. Amend the tests (and application code) in a way that every rerun of the tests
 will reproduce same results without restarting the application.
 
 ## Tests setup
@@ -29,11 +28,7 @@ yarn test
 
 ## Submission
 
-1. Fork this repository
-
-2. Solve task laid out by tests. Commit code.
-
-3. Send a link to your public repository via e-mail.
+Send a link to your public repository via e-mail.
 
 ## Evaluation
 
