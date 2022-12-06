@@ -1,4 +1,4 @@
-import cookieClicker from './cookieClicker'
+import App from './App';
 
 const { PAGE_URL } = process.env;
 
